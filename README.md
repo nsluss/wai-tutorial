@@ -19,11 +19,11 @@ section.
 Each section will have it's own branch. Each branch will include a solution to 
 the previous sections as well as any stubbed out functions or tests provided 
 for the next exercises. Each section will also include updates to 
-[requirements.md](requirements.md) and [notes.md](notes.md). `requirements.md` will explain the exercise 
-for the current section, while `notes.md` will include any background material, 
+[Requirements.md](Requirements.md) and [Notes.md](Notes.md). `Requirements.md` will explain the exercise 
+for the current section, while `Notes.md` will include any background material, 
 explanation, or links to documentation that will be required to be able to 
 complete the section's exercises.
 
 ## Getting started
 Make sure you have a working haskell installation (we will be using stack in 
-this project), and check out [requirements.md](requirements.md)
+this project), and check out [Requirements.md](Requirements.md)
