@@ -21,6 +21,14 @@ description:         Please see the README on GitHub at <https://github.com/nslu
 
 dependencies:
 - base >= 4.7 && < 5
+- bytestring
+- http-types
+- text
+- wai
+- warp
+
+default-extensions:
+- OverloadedStrings
 
 library:
   source-dirs: src
