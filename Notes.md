@@ -8,7 +8,7 @@ in our [package.yaml](package.yaml), you will see that we have added `wai` and
 `warp` as dependencies for our project. The relationship here is that warp 
 depends on wai, and uses the types from wai for it's interface. As long as your 
 app's type matches wai's 
-[Application](http://hackage.haskell.org/package/wai-3.2.1.2/docs/Network-Wai.html#t:Application), 
+[Application](http://hackage.haskell.org/package/wai-3.2.1.2/docs/Network-Wai.html#t:Application) 
 type synonym, you can run it with warp.
 
 ## Testing a WAI app
